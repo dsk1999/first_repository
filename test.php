@@ -1,2 +1,2 @@
-<?php
+other<?php
 exit();
